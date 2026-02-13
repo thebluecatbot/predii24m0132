@@ -1,4 +1,4 @@
-# Predii Vehicle Specification Extractor
+<img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_27_56" src="https://github.com/user-attachments/assets/459a1d28-b8ab-42e4-8488-ab0865b37536" /># Predii Vehicle Specification Extractor
 
 A RAG pipeline that extracts structured vehicle specifications (torque values, fluid capacities, part numbers) from automotive service manual PDFs using LLMs and semantic retrieval.
 
@@ -6,6 +6,20 @@ A RAG pipeline that extracts structured vehicle specifications (torque values, f
 **Stack:** React + Vite · Groq Llama 3.3 70B · PDF.js · Character-frequency embeddings
 
 ---
+<img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_27_56" src="https://github.com/user-attachments/assets/efd47c64-f5ac-45a7-a66c-3914aa061df3" />
+
+
+<img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_28_09" src="https://github.com/user-attachments/assets/11b06d60-6c1b-41de-88e4-a6e381ffed8f" />
+
+
+<img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_28_16" src="https://github.com/user-attachments/assets/72782ffe-ebc2-4a83-a39f-95b02573d3f3" />
+
+<img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_28_33" src="https://github.com/user-attachments/assets/75d2d2c3-d086-48f9-a0d7-d5b9b8641451" />
+
+<img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_28_40" src="https://github.com/user-attachments/assets/08ef41b1-f31f-4ec3-87ad-cce64aee4028" />
+
+<img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_28_49" src="https://github.com/user-attachments/assets/cdf405a6-ec6e-4a98-a82b-159f39455f2b" />
+
 
 ## Quick Start
 
