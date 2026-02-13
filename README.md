@@ -1,10 +1,11 @@
-<img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_27_56" src="https://github.com/user-attachments/assets/459a1d28-b8ab-42e4-8488-ab0865b37536" /># Predii Vehicle Specification Extractor
+# Predii Vehicle Specification Extractor
 
 A RAG pipeline that extracts structured vehicle specifications (torque values, fluid capacities, part numbers) from automotive service manual PDFs using LLMs and semantic retrieval.
 
 **Tested on:** 2014 Ford F-150 Workshop Manual (852 pages)  
 **Stack:** React + Vite · Groq Llama 3.3 70B · PDF.js · Character-frequency embeddings
 
+<img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_27_56" src="https://github.com/user-attachments/assets/459a1d28-b8ab-42e4-8488-ab0865b37536" />
 ---
 <img width="1920" height="1128" alt="Predii Spec Extractor - Google Chrome 13-02-2026 23_27_56" src="https://github.com/user-attachments/assets/efd47c64-f5ac-45a7-a66c-3914aa061df3" />
 
