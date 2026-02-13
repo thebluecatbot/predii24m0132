@@ -1,0 +1,5 @@
+{
+  "name": "Predii Vehicle Spec Extractor",
+  "description": "A high-fidelity RAG-based pipeline for extracting technical vehicle specifications from service manuals using OpenAI GPT-3.5-Turbo.",
+  "requestFramePermissions": []
+}
